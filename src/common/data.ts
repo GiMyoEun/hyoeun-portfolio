@@ -406,7 +406,7 @@ export const PORTFOLIO: ProjectDetailType = {
       title: "react-swiper​",
       subTitle: "터치 스와이프 컴포넌트 도입",
       discription:
-        "react-swiper를 활용하여 재사용 가능한 swipe 컴포넌트를 만들어 터치로 하나씩 넘기는 스와이프 컴포넌트, 터치로 overflow 된 컴포넌트를 확인 할 수 있는 컴포넌트를 구현하였습니다. 라이브러리를 도입한 덕분에 2가지 종류의 재사용 가능한 스와이프 컴포넌트를 하루만에 구현할 수 있었습니다.",
+        "react-swiper를 활용하여 재사용 가능한 swipe 컴포넌트를 만들어 터치로 하나씩 넘기는 스와이프 컴포넌트, 터치로 overflow 된 컴포넌트를 확인 할 수 있는 컴포넌트를 구현하였습니다. 라이브러리를 도입한 덕분에 3가지 종류의 재사용 가능한 스와이프 컴포넌트를 하루만에 구현할 수 있었습니다.",
     },
     {
       title: "Mui​",
