@@ -37,7 +37,6 @@ const Wrap = styled.div`
 
   display: grid;
   @media (max-width: 650px) {
-    display: block;
-    text-align: -webkit-center;
+    grid-template-columns: 1fr; /* 모바일에서는 1열로 설정 */
   }
 `;

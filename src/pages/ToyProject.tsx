@@ -3,7 +3,7 @@
     파일명 : ToyProject.tsx
     설명 : 토이 프로젝트 
 */
-import BasicTabs from "../components/Common/Tabs/BasicTabs";
+
 import Summary from "../components/Projects/Summary";
 
 export default function ToyProject() {
