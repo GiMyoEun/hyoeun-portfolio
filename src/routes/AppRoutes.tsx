@@ -46,4 +46,7 @@ const OuterDiv = styled.div`
   width: 100%;
   margin: 0 auto;
   margin-top: 60px;
+  @media (max-width: 650px) {
+    width: 90%;
+  }
 `;

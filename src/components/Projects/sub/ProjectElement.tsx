@@ -61,7 +61,7 @@ const Tag = styled.div`
 
   color: #000000;
   @media (max-width: 650px) {
-    font-size: 12px;
+    font-size: 16px;
   }
 `;
 const UpperDiv = styled.div`
@@ -92,7 +92,7 @@ const Title = styled.p`
   margin: 0px;
   color: #000000;
   @media (max-width: 650px) {
-    font-size: 16px;
+    font-size: 20px;
   }
 `;
 
@@ -110,7 +110,7 @@ const Period = styled.p`
   margin: 0px;
   margin-top: 5px;
   @media (max-width: 650px) {
-    font-size: 12px;
+    font-size: 16px;
   }
 `;
 
@@ -144,7 +144,7 @@ const Info = styled.p`
   margin: 0px;
   margin-top: 5px;
   @media (max-width: 650px) {
-    font-size: 12px;
+    font-size: 13px;
   }
 `;
 
@@ -161,6 +161,6 @@ const Discription = styled.div`
 
   color: #000000;
   @media (max-width: 650px) {
-    font-size: 12px;
+    font-size: 16px;
   }
 `;

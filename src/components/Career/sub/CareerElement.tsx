@@ -81,7 +81,7 @@ const Title = styled.div`
   color: #000000;
 
   @media (max-width: 650px) {
-    font-size: 12px;
+    font-size: 13px;
   }
 
   &:hover {
@@ -106,7 +106,7 @@ const Period = styled.div`
   color: #7b7b7b;
   place-content: center;
   @media (max-width: 650px) {
-    font-size: 12px;
+    font-size: 13px;
     justify-content: flex-end;
   }
 `;
@@ -124,4 +124,7 @@ const Element = styled.div`
   align-items: center;
   color: black;
   height: 21px;
+  @media (max-width: 650px) {
+    font-size: 10px;
+  }
 `;

@@ -159,7 +159,7 @@ const P = styled.div<{ $color?: string }>`
   margin-top: 5px;
   text-align: left;
   @media (max-width: 650px) {
-    font-size: 12px;
+    font-size: 16px;
   }
 `;
 
