@@ -397,7 +397,7 @@ export const PORTFOLIO: ProjectDetailType = {
   link: [
     {
       img: "git",
-      link: "",
+      link: "https://github.com/GiMyoEun/hyoeun-portfolio",
     },
   ],
 
