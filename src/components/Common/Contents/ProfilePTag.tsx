@@ -34,7 +34,7 @@ const P = styled.p<{ $margin: string }>`
   align-items: center;
   text-align: center;
   margin: ${({ $margin }) => $margin};
-  color: #7b7b7b;
+  color: black;
   @media (max-width: 650px) {
     font-size: 16px;
   }

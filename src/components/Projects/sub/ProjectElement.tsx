@@ -120,6 +120,8 @@ const Wrapper = styled.div<{ $margin: string }>`
   height: 487px;
   margin: ${({ $margin }) => $margin};
   background: #f8f8f8;
+  border: solid #dedede;
+
   &:hover {
     cursor: pointer;
   }

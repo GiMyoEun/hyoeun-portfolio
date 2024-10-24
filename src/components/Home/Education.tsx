@@ -58,7 +58,7 @@ const Div = styled.div`
   align-items: center;
   text-align: center;
   place-self: center;
-  color: #7b7b7b;
+  color: black;
   @media (max-width: 650px) {
     font-size: 32px;
   }

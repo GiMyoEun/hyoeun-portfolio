@@ -8,17 +8,14 @@ import styled from "styled-components";
 export default function Footer() {
   return (
     <>
-      <Padding />
       <Wrap>
         <FooterBackground />
-        <InnerDiv>created by hyoeun Kim</InnerDiv>
+        <InnerDiv>created by hyoeun Kim.</InnerDiv>
       </Wrap>
     </>
   );
 }
-const Padding = styled.div`
-  height: 60px;
-`;
+
 const Wrap = styled.div`
   width: 100%;
   position: fixed;
@@ -31,7 +28,7 @@ const Wrap = styled.div`
 const FooterBackground = styled.div`
   position: absolute;
   z-index: -1;
-  background: lightgray;
+  background: white;
   -webkit-backdrop-filter: saturate(150%) blur(32px);
   backdrop-filter: saturate(150%) blur(32px);
   height: 100%;

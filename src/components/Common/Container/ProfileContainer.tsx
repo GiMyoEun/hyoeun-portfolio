@@ -47,6 +47,6 @@ const Container = styled.div<{ $jc: string }>`
   height: max-content;
 
   display: flex;
-  background: #f8f8f8;
+  background: gainsboro;
   border-radius: 20px;
 `;

@@ -37,13 +37,9 @@ export default function Certification() {
           })}
         </>
       </ProfileContainer>
-      <Margin />
     </>
   );
 }
-const Margin = styled.div`
-  height: 60px;
-`;
 const Line = styled.div`
   /* Line 9 */
 
@@ -91,7 +87,7 @@ const Discription = styled.p`
   display: flex;
   align-items: center;
 
-  color: #7b7b7b;
+  color: black;
   @media (max-width: 650px) {
     font-size: 12px;
     text-align: left;

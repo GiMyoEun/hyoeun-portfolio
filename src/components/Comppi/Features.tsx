@@ -107,6 +107,7 @@ const Component = styled.div<{ $bg: string }>`
   line-height: 16px;
   display: flex;
   align-items: center;
+  border: solid #dedede;
 
   color: #000000;
   &:hover {

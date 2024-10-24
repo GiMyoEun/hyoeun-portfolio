@@ -115,14 +115,13 @@ const Div = styled.div<{ $bg: string }>`
 const StyledSlide = styled(SwiperSlide)`
   text-align: center;
   font-size: 18px;
-  background: #fff;
+  // background: #fff;
 
   /* Center slide text vertically */
   // display: flex;
   // justify-content: center;
   // align-items: center;
   width: 291px;
-  height: 328px;
 
   @media (max-width: 650px) {
     width: 191px;

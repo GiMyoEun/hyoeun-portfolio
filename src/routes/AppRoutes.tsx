@@ -31,17 +31,19 @@ export default function AppRoutes() {
 
 const Div = styled.main`
   overflow-x: hidden;
-  background-color: #fff;
+
   box-sizing: border-box;
   color: inherit;
   -webkit-box-sizing: border-box;
   display: block;
   unicode-bidi: isolate;
+  margin-bottom: 130px;
 `;
 
 const OuterDiv = styled.div`
   max-width: 1060px;
   padding-left: 12px;
+
   padding-right: 12px;
   width: 100%;
   margin: 0 auto;

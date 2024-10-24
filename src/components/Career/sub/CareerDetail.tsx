@@ -88,6 +88,7 @@ const Wrap = styled.div`
   background: #f8f8f8;
   height: max-content;
   border-radius: 20px;
+  border: solid #dedede;
 `;
 
 const Title = styled.div`

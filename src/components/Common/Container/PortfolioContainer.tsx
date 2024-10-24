@@ -34,6 +34,7 @@ const InnerWrapper = styled.div<{ $padding: string }>`
 `;
 const ContainerWrapper = styled.div<{ $mt: string }>`
   margin-top: ${({ $mt }) => $mt};
+  border: solid #dedede;
 
   display: flex;
   place-content: center;
